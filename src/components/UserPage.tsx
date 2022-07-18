@@ -18,6 +18,7 @@ export const UserPage: React.FC = () => {
     () => {
       loadPage();
     },
+    [loadPage],
   );
 
   return (
