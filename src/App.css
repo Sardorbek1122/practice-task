@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: brown;
+}
