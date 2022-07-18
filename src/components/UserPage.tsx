@@ -18,7 +18,6 @@ export const UserPage: React.FC = () => {
     () => {
       loadPage();
     },
-    [],
   );
 
   return (
